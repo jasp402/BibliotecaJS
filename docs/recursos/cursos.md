@@ -8,11 +8,19 @@ Cursos disponibles en el Google Drive
 
 + Node ES - Node.js Esencial (LINKEDIN)
 
-+ Fundamentos de JavaScript (Platzi)
++ VueSchool - Dynamic Forms with Vue.js
+
++ 1-Fundamentos de JavaScript (Platzi)
+
++ 2-Curso Bàsico de Node.js
 
 + [Mejorando.la]Node.js - Basico.iso
 
 + [Falcon Masters] Curso completo Bootstrap.iso
+
++ [Video2Brain] Creaciòn de un sitio web con Node.js.iso
+
++ [ED] JavaScript Desde Cero.zip
 
 
 ---
