@@ -1,10 +1,10 @@
 # Recursos > Libros en PDF
 ---
 
-*[Angular]
+> [Angular]()
  - Detalle: 0 Libros
  
-*[JavaScript]
+> [JavaScript]()
  - Secrets of the JavaScript
  - Learning JavaScript - Ethan Brown
  - JavaScript Bible - Danny Goodman
@@ -15,21 +15,21 @@
  - Detalle: 7 Libros
 
  
-*[Jquery]
+> [Jquery]()
  - Manual Basico de Jquery
  - Detalle: 1 Libros
  
-*[Node.js]
+> [Node.js]()
  - Detalle: 0 Libros
  
-*[React.js](recursos/librosReactJs.md)
+> [React.js]()
  - Aprendizaje React - stack OverFlow
  - Detalle: 1 Libros
  
-*[TypeScript]
+> [TypeScript]()
  - Manual TypeScript - Emmanuel Valverde
  
-*[Vue]
+> [Vue]()
 - La elegancia de Vue.js 2 - styde
  - Detalle: 0 Libros
 
