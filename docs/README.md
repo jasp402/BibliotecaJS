@@ -1,6 +1,6 @@
+# BIBLIOTECAJS
 ![logo](recursos/logojs.png)
-# BibliotecaJS
-📚 Colección de material sobre JavaScript
+  Colección de material sobre JavaScript
 
 
 ---
