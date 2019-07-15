@@ -1,7 +1,12 @@
 * ### [NOTICIAS](/noticias/noticias.md)
+---
+
 * ### [ARTICULOS](/articulos/articulos.md)
+---
+
 * ### [RECURSOS COMPARTIDOS](/recursos/index.md)
     + #### [Libros PDF's](/recursos/libros.md)
     + #### [Cursos Drive](/recursos/cursos.md)
     + #### [Cursos Mega](/recursos/mega.md)
     + #### [Cursos uTorrent](/recursos/utorrent.md)
+---
