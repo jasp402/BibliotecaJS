@@ -3,24 +3,66 @@ Cursos disponibles en el Google Drive
 
 ---
 
+> [Angular JS]()
+  
+  + [ED] Angular desde cero
+  
+  + [UDEMY] Angular7+ de cero a experto creando aplicaciones
+  
+  + [UDEMY] Angular8+ de cero a experto creando aplicaciones
 
-+ React ES - Curso de Introduccion y Fundamentos de React (CODIGOFACILITO)
 
-+ Node ES - Node.js Esencial (LINKEDIN)
+> [Bootstrap]()
 
-+ VueSchool - Dynamic Forms with Vue.js
+  + [Falcon Masters] Curso completo Bootstrap.iso
 
-+ 1-Fundamentos de JavaScript (Platzi)
+> [Git]()
+  
+  + [] Git + GitHub Todo un sistema de control de versiones de cero
 
-+ 2-Curso Bàsico de Node.js
+> [JavaScript]()
 
-+ [Mejorando.la]Node.js - Basico.iso
+  + [Platzi] 1-Fundamentos de JavaScript
+  
+  + [ED] JavaScript desde cero.zip
+  
+  + [UDEMY] JavaScript desde cero hasta los detalles
+  
+  + [UDEMY] Master en JavaScript
+  
 
-+ [Falcon Masters] Curso completo Bootstrap.iso
+> [Jquery]()
 
-+ [Video2Brain] Creaciòn de un sitio web con Node.js.iso
+  + [] JQery de cero a avanzado mediante ejercicios practicos
 
-+ [ED] JavaScript Desde Cero.zip
+
+> [Node JS]()
+
+  + [LINKEDIN] Node ES - Node.js Esencial
+  
+  + [] 2-Curso Bàsico de Node.js
+  
+  + [] Node de cero a experto
+  
+  + [Mejorando.la] Node.js - Basico.iso
+  
+  + [Video2Brain] Creaciòn de un sitio web con Node.js.iso
+
+
+> [React JS]()
+  
+  + [CODIGO FACILITO] React ES - Curso de Introduccion y Fundamentos de React
+
+
+> [Type Script]()
+
+  + [] TypeScript guia completa
+
+> [Vue]()
+
+  + [VueSchool] Dynamic Forms with Vue.js
+
++ Angular Desde Cero (EDTEAM)
 
 
 ---
