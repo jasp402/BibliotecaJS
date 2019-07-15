@@ -5,15 +5,19 @@
 > ## [ANGULAR]() 
 | REALIZADO | TITULO | CONTRIBUYENTE |
 | -- | -- | -- |
-| ED | Angular desde cero | CONTRIBUYENTE |
-| UDEMY | Angular7+ de cero a experto creando aplicaciones | CONTRIBUYENTE |
-| UDEMY | Angular8+ de cero a experto creando aplicaciones | CONTRIBUYENTE |
-
-
+| angular |
+| ED | Angular desde cero | "" |
+| UDEMY | Angular7+ de cero a experto creando aplicaciones | "" |
+| UDEMY | Angular8+ de cero a experto creando aplicaciones | "" |
 
 > [Bootstrap]()
 
   + [Falcon Masters] Curso completo Bootstrap.iso
+
+> ## [BOOTSTRAP]() 
+| REALIZADO | TITULO | CONTRIBUYENTE |
+| -- | -- | -- |
+| FALCON |  Curso completo Bootstrap.iso | "" |
 
 > [Git]()
   
