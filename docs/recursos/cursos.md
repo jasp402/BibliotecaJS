@@ -1,8 +1,8 @@
 ## Cursos Disponibles
 
-### Cursos disponibles en el Google Drive - 
+### Cursos disponibles en el Google Drive.
+
 ---
- 
 # |ANGULAR|
 ---
 | REALIZADO | TITULO | CONTRIBUYENTE |
