@@ -5,68 +5,57 @@
 > ## [ANGULAR]() 
 | REALIZADO | TITULO | CONTRIBUYENTE |
 | -- | -- | -- |
-| angular |
 | ED | Angular desde cero | "" |
 | UDEMY | Angular7+ de cero a experto creando aplicaciones | "" |
 | UDEMY | Angular8+ de cero a experto creando aplicaciones | "" |
 
-> [Bootstrap]()
-
-  + [Falcon Masters] Curso completo Bootstrap.iso
-
 > ## [BOOTSTRAP]() 
 | REALIZADO | TITULO | CONTRIBUYENTE |
 | -- | -- | -- |
-| FALCON |  Curso completo Bootstrap.iso | "" |
+| FALCON |  Curso completo Bootstrap.iso | -- |
 
-> [Git]()
-  
-  + [] Git + GitHub Todo un sistema de control de versiones de cero
+> ## [GIT]() 
+| REALIZADO | TITULO | CONTRIBUYENTE |
+| -- | -- | -- |
+| -- | Git + GitHub Todo un sistema de control de versiones de cero | -- |
 
-> [JavaScript]()
+> ## [JAVASCRIPT]() 
+| REALIZADO | TITULO | CONTRIBUYENTE |
+| -- | -- | -- |
+| PLATZI | 1-Fundamentos de JavaScript | -- |
+| ED | JavaScript desde cero.zip | -- |
+| UDEMY | JavaScript desde cero hasta los detalles | -- |
+| UDEMY | Master en JavaScript | -- |
 
-  + [Platzi] 1-Fundamentos de JavaScript
-  
-  + [ED] JavaScript desde cero.zip
-  
-  + [UDEMY] JavaScript desde cero hasta los detalles
-  
-  + [UDEMY] Master en JavaScript
-  
-
-> [Jquery]()
-
-  + [] JQery de cero a avanzado mediante ejercicios practicos
-
-
-> [Node JS]()
-
-  + [LINKEDIN] Node ES - Node.js Esencial
-  
-  + [] 2-Curso Bàsico de Node.js
-  
-  + [] Node de cero a experto
-  
-  + [Mejorando.la] Node.js - Basico.iso
-  
-  + [Video2Brain] Creaciòn de un sitio web con Node.js.iso
+> ## [JQUERY]() 
+| REALIZADO | TITULO | CONTRIBUYENTE |
+| -- | -- | -- |
+| -- | JQery de cero a avanzado mediante ejercicios practicos | -- |
 
 
-> [React JS]()
-  
-  + [CODIGO FACILITO] React ES - Curso de Introduccion y Fundamentos de React
+> ## [NODEJS]() 
+| REALIZADO | TITULO | CONTRIBUYENTE |
+| -- | -- | -- |
+| LINKEDIN | Node ES - Node.js Esencial | -- |
+| -- | 2-Curso Bàsico de Node.js | -- |
+| -- | Node de cero a experto | -- |
+| MEJORANDO.LA | Node.js - Basico.iso | -- |
+| VIDEO2BRAIN | Creaciòn de un sitio web con Node.js.iso | -- |
 
+> ## [REACTJS]() 
+| REALIZADO | TITULO | CONTRIBUYENTE |
+| -- | -- | -- |
+| CODIGO FACILITO | React ES - Curso de Introduccion y Fundamentos de React | -- |
 
-> [Type Script]()
+> ## [TYPE SCRIPT]() 
+| REALIZADO | TITULO | CONTRIBUYENTE |
+| -- | -- | -- |
+| -- | TypeScript guia completa | -- |
 
-  + [] TypeScript guia completa
-
-> [Vue]()
-
-  + [VueSchool] Dynamic Forms with Vue.js
-
-+ Angular Desde Cero (EDTEAM)
-
+> ## [VUEJS]() 
+| REALIZADO | TITULO | CONTRIBUYENTE |
+| -- | -- | -- |
+| VUESCHOOL | Dynamic Forms with Vue.js | -- |
 
 ---
 :pencil2: [Edit this page on GitHub](https://github.com/jasp402/BibliotecaJS/edit/master/docs/recursos/cursos.md)
