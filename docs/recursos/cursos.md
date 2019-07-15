@@ -4,6 +4,7 @@ Cursos disponibles en el Google Drive
 
 |ANGULAR|
 --
+
 | REALIZADO | TITULO | CONTRIBUYENTE |
 | -- | -- | -- |
 | ED | Angular desde cero | CONTRIBUYENTE |
