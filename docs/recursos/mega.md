@@ -31,7 +31,7 @@
     </tr>
     <tr>
       <th scope="row">3</th>
-      <td>Larry</td>
+      <td>Larrygil</td>
       <td>the Bird</td>
       <td>@twitter</td>
     </tr>
