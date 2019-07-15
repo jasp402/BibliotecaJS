@@ -1,5 +1,9 @@
-# Recursos
+## RECURSOS COMPARTIDOS
 ---
+
+| PDF |  DRIVE | EN MEGA | EN UTORRENT |
+|---|---|---|---|
+| [PDF](recursos/libros.md) | | EN MEGA | EN UTORRENT |
 
 * [libros en PDF](recursos/libros.md)
     - Detalle: 0 Libros
