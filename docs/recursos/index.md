@@ -2,6 +2,7 @@
 ---
 | ![pdf](gpdf.gif)| ![drive](ggd.gif)| ![pdf](gmg.gif) | ![pdf](gut.gif) |
 |---|---|---|---|
+|*Detalle: 0 libros*|*Detalle: 9 cursos*|*Detalle: 4 enlaces*|*Detalle: 0 enlaces*|
 
 * [libros en PDF](recursos/libros.md)
     - Detalle: 0 Libros
