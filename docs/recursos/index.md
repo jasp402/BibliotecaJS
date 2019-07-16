@@ -1,9 +1,12 @@
 ## RECURSOS COMPARTIDOS
 ---
+![pdf](gpdf.gif)
+![drive](ggd.gif)
+![pdf](gmg.gif)
+![pdf](gut.gif)
 
-| PDF |  DRIVE | EN MEGA | EN UTORRENT |
+| ![pdf](gpdf.gif)| ![drive](ggd.gif)| ![pdf](gmg.gif) | ![pdf](gut.gif) |
 |---|---|---|---|
-| [PDF](recursos/libros.md) | | EN MEGA | EN UTORRENT |
 
 * [libros en PDF](recursos/libros.md)
     - Detalle: 0 Libros
