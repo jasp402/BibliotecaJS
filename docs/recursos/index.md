@@ -1,10 +1,5 @@
 ## RECURSOS COMPARTIDOS
 ---
-![pdf](gpdf.gif)
-![drive](ggd.gif)
-![pdf](gmg.gif)
-![pdf](gut.gif)
-
 | ![pdf](gpdf.gif)| ![drive](ggd.gif)| ![pdf](gmg.gif) | ![pdf](gut.gif) |
 |---|---|---|---|
 
