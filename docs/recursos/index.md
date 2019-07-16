@@ -1,17 +1,8 @@
 ## RECURSOS COMPARTIDOS
 ---
-| ![pdf](gpdf.gif)| ![drive](ggd.gif)| ![pdf](gmg.gif) | ![pdf](gut.gif) |
+| [ ![pdf](gpdf.gif) ](recursos/libros.md) | [ ![drive](ggd.gif) ](recursos/cursos.md) | [ ![pdf](gmg.gif) ](recursos/mega.md) | [ ![pdf](gut.gif) ](recursos/utorrent.md) |
 |---|---|---|---|
 |*Detalle: 0 libros*|*Detalle: 9 cursos*|*Detalle: 4 enlaces*|*Detalle: 0 enlaces*|
-
-* [libros en PDF](recursos/libros.md)
-    - Detalle: 0 Libros
-* [Cursos en Google Drive](recursos/cursos.md)
-    - Detalle: 9 Libros   
-* [Cursos en Mega](recursos/mega.md)
-    - Detalle: 0 Cursos en Mega
-* [Cursos en uTorrent](recursos/utorrent.md)
-    - Detalle: 0 Cursos en uTorrent
 
 
 ---
