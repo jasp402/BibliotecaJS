@@ -1,5 +1,6 @@
-# RECURSOS COMPARTIDOS 
-Libros Disponibles
+### Recursos Compartidos
+#### Libros disponibles en el Google Drive.
+
 ---
 
 > ## [ANGULAR]()
