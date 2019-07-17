@@ -1,4 +1,4 @@
-### Cursos Disponibles
+### Recursos Compartidos
 #### Cursos disponibles en el Google Drive.
 
 ---
