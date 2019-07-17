@@ -1,15 +1,8 @@
-# Recursos
+## RECURSOS COMPARTIDOS
 ---
-
-* [libros en PDF](recursos/libros.md)
-    - Detalle: 0 Libros
-* [Cursos en Google Drive](recursos/cursos.md)
-    - Detalle: 9 Libros   
-* [Cursos en Mega](recursos/mega.md)
-    - Detalle: 0 Cursos en Mega
-* [Cursos en uTorrent](recursos/utorrent.md)
-    - Detalle: 0 Cursos en uTorrent
-
+| [ ![pdf](gpdf.gif) ](recursos/libros.md) | [ ![drive](ggd.gif) ](recursos/cursos.md) | [ ![pdf](gmg.gif) ](recursos/mega.md) | [ ![pdf](gut.gif) ](recursos/utorrent.md) |
+|---|---|---|---|
+|*Detalle: 17 libros*|*Detalle: 19 cursos*|*Detalle: 2 enlaces*|*Detalle: 0 enlaces*|
 
 ---
 :pencil2: [Edit this page on GitHub](https://github.com/jasp402/BibliotecaJS/edit/master/docs/recursos/index.md)
