@@ -1,5 +1,6 @@
-|![logo](recursos/logojs.png)|
-|---|
+
+|![logo](recursos/logojs.png)|![logo](recursos/logogrupo.gif)|
+|---|---|
 
 
 ---
