@@ -1,23 +1,22 @@
 # Recursos > Libros en PDF
 ---
 
-> [Angular]()
-
-  | AUTOR | TITULO | TIPO | CONTRIBUYENTE |
-  |---|---|---|---|
-  |--- |  Angular expressions cheatsheet | Pdf | Jesùs Pèrez |
-  |--- |  Angular 2.0 Life of a Template | Docx | Jesùs Pèrez |
-  |--- |  Angular JS Up and Running | Pdf | Jesùs Pèrez |
-  |--- |  Angular JS | Pdf | Jesùs Pèrez |
-  |--- |  Animation in Angular 2.0 | Docx | Jesùs Pèrez |
-  |--- |  Còmo apender Angular JS | Pdf | Jesùs Pèrez |
-  | Alex Knol |  Dependency Injection with Angular JS | Pdf | Jesùs Pèrez |
-  | Carlos Azaustre |  Desarrollo web agil con Angular JS | Pdf | Jesùs Pèrez |
-  | Carlos Solis |  Manual del guerrero Angular JS | Pdf | Jesùs Pèrez |
-  | DesarrolloWeb.com |  Manual Angular JS Dic2014 | Pdf | Jesùs Pèrez |
-  | Adam Freeman|  Pro Angular JS | Pdf | Jesùs Pèrez |
-  |--- |  Promises | Pdf | Jesùs Pèrez |
-  |--- |  Web designer UK | Pdf | Jesùs Pèrez |
+> ## [ANGULAR]()
+| AUTOR | TITULO | TIPO | CONTRIBUYENTE |
+|---|---|---|---|
+|--- |  Angular expressions cheatsheet | Pdf | Jesùs Pèrez |
+|--- |  Angular 2.0 Life of a Template | Docx | Jesùs Pèrez |
+|--- |  Angular JS Up and Running | Pdf | Jesùs Pèrez |
+|--- |  Angular JS | Pdf | Jesùs Pèrez |
+|--- |  Animation in Angular 2.0 | Docx | Jesùs Pèrez |
+|--- |  Còmo apender Angular JS | Pdf | Jesùs Pèrez |
+| Alex Knol |  Dependency Injection with Angular JS | Pdf | Jesùs Pèrez |
+| Carlos Azaustre |  Desarrollo web agil con Angular JS | Pdf | Jesùs Pèrez |
+| Carlos Solis |  Manual del guerrero Angular JS | Pdf | Jesùs Pèrez |
+| DesarrolloWeb.com |  Manual Angular JS Dic2014 | Pdf | Jesùs Pèrez |
+| Adam Freeman|  Pro Angular JS | Pdf | Jesùs Pèrez |
+|--- |  Promises | Pdf | Jesùs Pèrez |
+|--- |  Web designer UK | Pdf | Jesùs Pèrez |
   
   
  
