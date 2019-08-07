@@ -6,4 +6,4 @@
 
 <!-- background color -->
 
-![color](#f7e018)
+![color](#ffde59)
