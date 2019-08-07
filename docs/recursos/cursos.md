@@ -19,6 +19,11 @@
 | -- | -- | -- |
 | -- | Git + GitHub Todo un sistema de control de versiones de cero | -- |
 
+> ## [GRAPHQL]() 
+| REALIZADO | TITULO | CONTRIBUYENTE |
+| -- | -- | -- |
+| -- | GraphQl | Jesus Perez |
+
 > ## [JAVASCRIPT]() 
 | REALIZADO | TITULO | CONTRIBUYENTE |
 | -- | -- | -- |
@@ -32,13 +37,22 @@
 | -- | -- | -- |
 | -- | JQery de cero a avanzado mediante ejercicios practicos | -- |
 
+> ## [JSON]() 
+| REALIZADO | TITULO | CONTRIBUYENTE |
+| -- | -- | -- |
+| V2B | JSON | Jose Alonso Cruz Montenegro |
+
 
 > ## [NODEJS]() 
 | REALIZADO | TITULO | CONTRIBUYENTE |
 | -- | -- | -- |
-| LINKEDIN | Node ES - Node.js Esencial | -- |
 | -- | 2-Curso Bàsico de Node.js | -- |
-| -- | Node de cero a experto | -- |
+| -- | API con NodeJs | -- |
+| ED | Node de cero | -- |
+| ED | Especialidad Programador Backend | -- |
+| ED | Node de cero a experto | -- |
+| LINKEDIN | Node ES - Node.js Esencial | -- |
+| ED | NodeJS para Principiantes | -- |
 | MEJORANDO.LA | Node.js - Basico.iso | -- |
 | VIDEO2BRAIN | Creaciòn de un sitio web con Node.js.iso | -- |
 
