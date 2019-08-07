@@ -1,4 +1,4 @@
-# BibliotecaJS
+# JavaScript & NodeJS
 📚 Colección de material sobre JavaScript
 
 
